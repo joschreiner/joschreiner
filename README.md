@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johannes
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python Programming :P
+- 🌱 I’m currently learning Python, C# and php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
